@@ -27,8 +27,6 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 github_username: dariosg # put your github username
 twitter_username: dariosugr # put your twitter username
-linkedin_username: # put your linkedin username
-scholar_authorid: # put your google scholar author id
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
@@ -36,6 +34,8 @@ publons_id: # your ID on Publons
 research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
 
+linkedin_username: dariosuarezgracia # put your linkedin username
+scholar_authorid: GMN3oxEAAAAJ # put your google scholar author id
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 
