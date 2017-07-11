@@ -43,8 +43,6 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 github_username: dariosg # put your github username
 twitter_username: dariosugr # put your twitter username
-linkedin_username: # put your linkedin username
-scholar_authorid: # put your google scholar author id
 orcid_id: # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
@@ -55,6 +53,8 @@ work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 
+linkedin_username: dariosuarezgracia # put your linkedin username
+scholar_authorid: GMN3oxEAAAAJ # put your google scholar author id
 contact_note: >
   You can even add a little note about which of these is the best way to reach you.
 
