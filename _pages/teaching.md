@@ -7,8 +7,7 @@ nav: true
 ---
 
 *The content of this page is in Spanish because my classes are taught in this
-language. Said that, if you are an international student, don't hesitate to
-contact me.*
+language, but if you are an international student please contact me.*
 
 ## horario de tutorías
 
