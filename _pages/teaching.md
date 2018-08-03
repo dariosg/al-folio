@@ -11,9 +11,8 @@ language, but if you are an international student please contact me.*
 
 ## horario de tutorías
 
-Semestre de Otoño 2017:
-
-* Por definir
+Semestre de Otoño 2018/2019:
+* Horarios por determinar
 
 Puedes enviarme un correo para quedar fuera de este horario.
 
@@ -27,6 +26,17 @@ aceleración de aplicaciones, ... por favor enviame un email o pásate por mi de
 
 Esta es la lista de asignaturas impartidas en los últimos años. Si estas inscrito
 en alguna asignatura, por favor visita [moodle](https://moodle2.unizar.es/add/) para obtener información más detallada.
+
+### 2018/2019
+
+1. Master en Ingeniería Informática
+* Redes y Sistemas Distribuidos
+
+1. Grado en Ingeniería Informática
+* Proyecto Hardware
+* Garantía y Seguridad
+* Administración de Sistemas
+* Redes de Computadores
 
 ### 2017/2018
 
