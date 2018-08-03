@@ -2,6 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 name: Darío Suárez Gracia
+title: Darío Suárez Gracia
 email: dario@unizar.es
 description: > # this means to ignore newlines until "url:"
     A simple webpage for Darío Suárez Gracia. Based on [*folio](https://github.com/bogoli/-folio) design.
@@ -33,9 +34,10 @@ research_gate_profile: # your profile on ResearchGate
 blogger_url: # your blogger URL
 
 linkedin_username: dariosuarezgracia # put your linkedin username
-scholar_authorid: GMN3oxEAAAAJ # put your google scholar author id
+scholar_userid: GMN3oxEAAAAJ # put your google scholar author id
+orcid_id: 0000-0002-7490-4067
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Please fell free to reach out to me by email.
 
 # google_analytics: UA-XXXXXXXXX # out your google-analytics code
 
