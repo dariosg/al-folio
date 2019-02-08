@@ -10,7 +10,6 @@ footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 url: //webdiis.unizar.es/~dario # the base hostname & protocol for your site
 baseurl:   # the subpath of your site, e.g. /blog/
-<<<<<<< HEAD
 last_updated: January 18, 2019
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
@@ -36,19 +35,18 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # -----------------------------------------------------------------------------
 github_username: dariosg # put your github username
 twitter_username: dariosugr # put your twitter username
-orcid_id: # your ORCID ID
+linkedin_username: dariosuarezgracia # put your linkedin username
+scholar_userid: GMN3oxEAAAAJ # put your google scholar author id
+orcid_id: 0000-0002-7490-4067
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
-research_gate_profile: # your profile on ResearchGate
+research_gate_profile: Dario_Suarez_Gracia # your profile on ResearchGate
 blogger_url: # your blogger URL
 work_url: # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 
-linkedin_username: dariosuarezgracia # put your linkedin username
-scholar_userid: GMN3oxEAAAAJ # put your google scholar author id
-orcid_id: 0000-0002-7490-4067
 contact_note: >
   Please fell free to reach out to me by email.
 
