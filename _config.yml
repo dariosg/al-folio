@@ -11,7 +11,7 @@ footer_text: >
 
 url: //webdiis.unizar.es/~dario # the base hostname & protocol for your site
 baseurl:   # the subpath of your site, e.g. /blog/
-last_updated: January 18, 2019
+last_updated: March 24, 2019
 
 # -----------------------------------------------------------------------------
 # Open Graph
@@ -100,6 +100,7 @@ plugins:
     - jekyll-paginate
     - jekyll/scholar
     - jemoji
+    - jekyll-compress-images
 
 # Jekyll-Scholar
 scholar:
@@ -124,6 +125,11 @@ scholar:
   details_link: Details
 
   query: "@*"
+
+image_optim:
+  pngout: false
+  svgo: false
+  verbose: false
 
 # -----------------------------------------------------------------------------
 # Other settings
