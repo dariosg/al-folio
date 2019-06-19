@@ -14,6 +14,7 @@ profile:
 
 news: true
 social: true
+lang: en
 ---
 
 I am an Interim Associate Professor in the <a href="http://diis.unizar.es/">Computer Science and Engineering Department</a>

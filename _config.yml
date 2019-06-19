@@ -9,9 +9,9 @@ description: > # this means to ignore newlines until "url:"
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 
-url: //webdiis.unizar.es/~dario # the base hostname & protocol for your site
-baseurl:   # the subpath of your site, e.g. /blog/
-last_updated: March 24, 2019
+url: '//webdiis.unizar.es' # the base hostname & protocol for your site
+baseurl: '/~dario' # the subpath of your site, e.g. /blog/
+last_updated: June 19, 2019
 
 # -----------------------------------------------------------------------------
 # Open Graph
@@ -101,6 +101,7 @@ plugins:
     - jekyll/scholar
     - jemoji
     - jekyll-compress-images
+    - Jekyll-gzip
 
 # Jekyll-Scholar
 scholar:
