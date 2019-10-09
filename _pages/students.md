@@ -12,18 +12,16 @@ I have the pleasure of working with the following terrific students.
 #### PhD
 
 * María Angélica Dávila Guzman (co-advised with María Villarroya Gaudó)
+* Pablo Hernández Almudí (co-advised with Eduardo Montijano Muñoz)
 
 #### Master
 
 * Luis Fueris Martín (co-advised with Jose Luis Briz)
-* Pablo Hernández Almudí (co-advised with Eduardo Montijano Muñoz)
+* Miguel Moniente Pannocchia (co-advised with Rubén Gran Tejero)
 
 #### Undergraduate
 
 * Mario Arcega Sanjuan
-* Javier Corbalán Colino (co-advised with Alejandro Valero Bresó)
-* Álvaro Gómez Muñoz
-* Miguel Moniente Pannocchia (co-advised with Rubén Gran Tejero)
 
 ### alumni
 
@@ -42,8 +40,10 @@ I have the pleasure of working with the following terrific students.
 
 * Alberto Álvarez Aldea, 2017 (co-advised with Ana Cristina Murillo Arnal)
 * Juan Antonio Cepero Chicote, 2017
+* Javier Corbalán Colino, 2019 (co-advised with Alejandro Valero Bresó)
 * Luis Fueris Martín, 2018 (co-advised with Jose Luis Briz)
 * Pablo Hernández Almudí, 2017 (co-advised with Eduardo Montijano Muñoz)
+* Álvaro Gómez Muñoz, 2019
 * Alejandro Márquez Ferrer, 2016 (co-advised with Ana Cristina Murillo Arnal)
 
 #### Undergraduate plus Master (5-year Spanish degree)
