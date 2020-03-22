@@ -12,11 +12,9 @@ I have the pleasure of working with the following terrific students.
 #### PhD
 
 * María Angélica Dávila Guzman (co-advised with María Villarroya Gaudó)
-* Pablo Hernández Almudí (co-advised with Eduardo Montijano Muñoz)
 
 #### Master
 
-* Luis Fueris Martín (co-advised with Jose Luis Briz)
 * Miguel Moniente Pannocchia (co-advised with Rubén Gran Tejero)
 
 #### Undergraduate
@@ -32,6 +30,7 @@ I have the pleasure of working with the following terrific students.
 
 * Marcos Canales Mayo, 2018 (co-advised with Rubén Gran Tejero)
 * Alexandra Ferrerón Labari, 2012 (co-advised with Jesús Alastruey Benedé)
+* Pablo Hernández Almudí, 2019 (co-advised with Eduardo Montijano Muñoz)
 * Pedro Horno Maggioni, 2018 (co-advised with Rubén Gran Tejero)
 * Marta Ortín Obón, 2012 (co-advised with María Villarroya Gaudó)
 
@@ -65,7 +64,13 @@ I have the pleasure of working with the following terrific students.
 * Alexandra Ferrerón Labari, 2011 (EPFL, Switzerland)
 * Víctor Soria Pardos, 2019 (UPC-BSC, Spain)
 
-If you are interested in working on these topics computer architecture,
+#### Tutor for undergraduate thesis within companies
+
+* Jorge Aznar López, 2020 (Deloitte)
+* Borja Aguado Diez, 2020 (Buavi)
+* Noel Carreras Aguerri, 2020 (Bitbrain)
+
+If you are interested in working on these topics: computer architecture,
 programming models, heterogeneous systems with GPU, FPGA, ..., compilers,
 interconnection networks, software defined networks, software optimization,
 security, ... please send me an email or stop by my office.
