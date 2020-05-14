@@ -1,7 +1,6 @@
 ---
 layout: page
 permalink: /concurso/
-title: concurso
 description:
 ---
 
