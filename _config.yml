@@ -11,7 +11,7 @@ footer_text: >
 
 url: '//webdiis.unizar.es' # the base hostname & protocol for your site
 baseurl: '/~dario' # the subpath of your site, e.g. /blog/
-last_updated: May 14, 2020
+last_updated: May 29, 2020
 
 # -----------------------------------------------------------------------------
 # Open Graph
