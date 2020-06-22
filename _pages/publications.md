@@ -3,7 +3,7 @@ layout: page
 permalink: /research/
 title: research
 description:
-years: [2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2009, 2007]
+years: [2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2009, 2007]
 nav: true
 ---
 
@@ -25,5 +25,6 @@ Scholar](https://scholar.google.es/citations?user=GMN3oxEAAAAJ&hl=en&oi=ao) and
 
 ### intellectual property
 
-While working at industry, we filled some patents. For a detailed list
-please visit [WIPO](https://patentscope.wipo.int/search/en/search.jsf) or [google patents](https://patents.google.com/?inventor=dario+suarez+gracia).
+While working at industry, we filled some patents. For a detailed list please
+visit [WIPO](https://patentscope.wipo.int/search/en/search.jsf) or [google
+patents](https://patents.google.com/?inventor=dario+suarez+gracia).
