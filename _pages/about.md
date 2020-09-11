@@ -17,7 +17,7 @@ social: true
 lang: en
 ---
 
-I am an Interim Associate Professor in the <a href="http://diis.unizar.es/">Computer Science and Engineering Department</a>
+I am an Associate Professor in the <a href="http://diis.unizar.es/">Computer Science and Engineering Department</a>
 at the <a href="http://www.unizar.es/">Universidad de Zaragoza</a> in Spain. Previously, I worked at Qualcomm Research Silicon Valley
 where my research focused on heterogeneous programming models. Please try
 <a href="https://developer.qualcomm.com/software/heterogeneous-compute-sdk">Snapdragon Heterogeneous Compute SDK</a>. Prior to that, I graduated from
