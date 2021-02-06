@@ -11,7 +11,7 @@ footer_text: >
 
 url: '//webdiis.unizar.es' # the base hostname & protocol for your site
 baseurl: '/~dario' # the subpath of your site, e.g. /blog/
-last_updated: July  7, 2020
+last_updated: February  3, 2021
 
 # -----------------------------------------------------------------------------
 # Open Graph
@@ -75,9 +75,9 @@ collections:
       layout: post
     output: true
     permalink: /news/:path/
-    #projects:
-    #output: false
-    #permalink: /projects/:path/
+    projects:
+    output: true
+    permalink: /projects/:path/
 
 news_limit: 5
 

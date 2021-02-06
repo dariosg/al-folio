@@ -11,7 +11,7 @@ language, but if you are an international student please contact me.*
 ## horario de tutorías
 
 Mi horario está disponible en la página web de la
-[EINA](http://eina.unizar.es/intraneteina/index.php?r=tutorias/view&id=443).
+[unizar](https://directorio.unizar.es/?#/personas?cadena=%22Dar%C3%ADo%20Su%C3%A1rez%20Gracia%22).
 Para quedar fuera de este horario, puedes enviarme un correo para quedar.
 
 ## trabajos fin de grado/master
@@ -22,8 +22,22 @@ aceleración de aplicaciones, ... por favor enviame un email o pásate por mi de
 
 ## Asignaturas
 
-Esta es la lista de asignaturas impartidas en los últimos años. Si estas inscrito
-en alguna asignatura, por favor visita [moodle](https://moodle2.unizar.es/add/) para obtener información más detallada.
+Esta es la lista de asignaturas impartidas en los últimos años. Si estas
+inscrito en alguna asignatura, por favor visita
+[moodle](https://moodle2.unizar.es/add/) para obtener información más
+detallada.
+
+### 2020/2021
+
+1. Master Program in Robotics, Graphics, and Computer Vision
+* Programming and Architecture of Computing Systems
+
+1. Máster en Ingeniería Informática
+* Redes y Sistemas Distribuidos
+
+1. Grado en Ingeniería Informática
+* Proyecto Hardware
+* Garantía y Seguridad
 
 ### 2019/2020
 
