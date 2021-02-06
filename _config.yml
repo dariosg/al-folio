@@ -8,9 +8,9 @@ description: > # this means to ignore newlines until "url:"
     A simple webpage for Darío Suárez Gracia. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-url: //webdiis.unizar.es/~dario # the base hostname & protocol for your site
-baseurl:   # the subpath of your site, e.g. /blog/
-last_updated: March 24, 2019
+url: '//webdiis.unizar.es' # the base hostname & protocol for your site
+baseurl: '/~dario' # the subpath of your site, e.g. /blog/
+last_updated: June 19, 2019
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
@@ -132,7 +132,11 @@ plugins:
     - jekyll/scholar
     - jemoji
     - jekyll-compress-images
+<<<<<<< HEAD
 >>>>>>> 5a1e320 (Speed-up website load by reducing image sizes)
+=======
+    - Jekyll-gzip
+>>>>>>> 5d75618 (New papers with UMA and UB added to the news)
 
 scholar:
 
