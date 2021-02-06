@@ -9,4 +9,6 @@ group :jekyll_plugins do
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
     gem 'unicode_utils'
+    gem 'jekyll-compress-images'
+    gem 'jekyll-gzip'
 end

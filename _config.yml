@@ -10,7 +10,7 @@ footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
 url: //webdiis.unizar.es/~dario # the base hostname & protocol for your site
 baseurl:   # the subpath of your site, e.g. /blog/
-last_updated: January 18, 2019
+last_updated: March 24, 2019
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 
 # -----------------------------------------------------------------------------
@@ -113,6 +113,7 @@ exclude: [vendor]
 
 # Plug-ins
 plugins:
+<<<<<<< HEAD
   - jekyll-email-protect
   - jekyll-github-metadata
   - jekyll-paginate-v2
@@ -125,6 +126,13 @@ plugins:
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
 # -----------------------------------------------------------------------------
+=======
+    - jekyll-email-protect
+    - jekyll-paginate
+    - jekyll/scholar
+    - jemoji
+    - jekyll-compress-images
+>>>>>>> 5a1e320 (Speed-up website load by reducing image sizes)
 
 scholar:
 
@@ -146,6 +154,11 @@ scholar:
   details_link: Details
 
   query: "@*"
+
+image_optim:
+  pngout: false
+  svgo: false
+  verbose: false
 
 # -----------------------------------------------------------------------------
 # Optional Features
