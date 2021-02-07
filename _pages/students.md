@@ -21,7 +21,6 @@ I have the pleasure of working with the following terrific students.
 
 #### Undergraduate
 
-* Mario Arcega Sanjuan
 
 ### alumni
 
@@ -39,8 +38,10 @@ I have the pleasure of working with the following terrific students.
 #### Undergraduate
 
 * Alberto Álvarez Aldea, 2017 (co-advised with Ana Cristina Murillo Arnal)
+* Mario Arcega Sanjuan, 2019
 * Juan Antonio Cepero Chicote, 2017
 * Javier Corbalán Colino, 2019 (co-advised with Alejandro Valero Bresó)
+* Sergio Escolar de Torres Solanot, 2019 (co-advised with Eduardo Montijano Muñoz)
 * Luis Fueris Martín, 2018 (co-advised with Jose Luis Briz)
 * Pablo Hernández Almudí, 2017 (co-advised with Eduardo Montijano Muñoz)
 * Álvaro Gómez Muñoz, 2019
